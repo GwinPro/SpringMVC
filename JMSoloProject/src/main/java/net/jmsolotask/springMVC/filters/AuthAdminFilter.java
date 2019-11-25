@@ -1,8 +1,6 @@
 package net.jmsolotask.springMVC.filters;
 
-import net.jmsolotask.springMVC.controller.UserController;
 import net.jmsolotask.springMVC.model.User;
-import net.jmsolotask.springMVC.service.UserService;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;
